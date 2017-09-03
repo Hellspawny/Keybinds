@@ -1,0 +1,1 @@
+Multiply "combatlog 0 $$ playersay Combatlog >AUS< $$ OwnChannel Combatlog >AUS< $$ bind_load_file LogAN.bind"
