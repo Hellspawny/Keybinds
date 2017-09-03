@@ -1,0 +1,103 @@
+/L21"Keybind" Line Comment = # BIND Nocase Noquote Block Comment On = <!-- Block Comment Off = --> File Extensions = BIND
+/Function String = """
+/Open Fold Strings = """
+/Close Fold Strings = """
+/Indent Strings = "Then" "Else"
+/Unindent Strings = "End" "Next" "End If" "End Select" "End Sub" "Wend"
+/C1"Statement/Operator" STYLE_OPERATOR
+zone
+team
+local
+$$
+
+/C2"Functions" STYLE_FUNCTION
++trayexecbytraywithbackup
++TrayExecByTray
++right
++left
++invertibleup
++invertibledown
++crouch
++run
++walk
++aim
+
+/C3"Properties"
+GenSetEarlyOverrideFloat
+bind_load_file
+GenSliderSetNotch
+GenButtonClick
+GenSendMessage
+GenListDown
+GenSetText
+GenAddWindow
+GenSetEarlyOverrideFloat
+StatsPreset_Load Preset_1
+StatsPreset_Load Preset_2
+StatsPreset_Load Preset_3
+StatsPreset_Load Preset_4
+
+/C4"Methods" STYLE_ELEMENT
+TargetTeammate
+Target_Self
+Target_Enemy_Near
+Target_Enemy_Near_ForArc
+playersay
+Assist
+screenshot_jpg
+screenshot_ui_jpg
+leftmargin
+bottommargin
+Hud_Buffs
+combatlog
+playerrespawn
+
+
+/C5"Objects"
+ContactDialogEnd
+
+
+/C6"Constants" STYLE_KEYWORDS
+Alliance_Holdings_Contributequantity_Slider
+Alliance_Holdings_Contributequantity_Ok
+Guild_Holdings_Contributequantity_Slider
+Guild_Holdings_Contributequantity_Ok
+Target_Enemy_Next_Exposed
+Inventory_Debug_Window
+Inventory_Debug_Bagpicker
+Hidden_Item
+Inventory
+Overflow
+TeamStatus_Spacelayout
+Hud_Statustargetoftarget_Space_Bufflist
+Hud_Statustargetfocused_Space_Bufflist
+Hud_Statustarget_Space_Bufflist
+Hud_Weapons_root
+Hud_bridgecrew_trays_root
+HUD_Root
+Store_Bulk_Buy_Count
+Store_Bulk_Buy_Ok
+Dabo_Placebet_Button
+Shipstatus_Starship
+Shipstatus_Bracket
+Shipstatus_Shiphealth
+Shipstatus_Bufflist
+Hud_Statustarget_Space_Distance
+Hud_Statustarget_Space_Bufflist
+genjailadd
+Map
+ScanForClickies
+NavToPosition
+scale
+hide
+unhide
+throttleadjust
+AdjustCamDistance
+characterstatus
+Pvpreport
+/C4"Fire Commands" STYLE_METHOD
+FirePhasers
+FireAll
+FireTorps
+
+
