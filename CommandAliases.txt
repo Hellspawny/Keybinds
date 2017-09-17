@@ -1,0 +1,133 @@
+﻿alias Tray0 "+trayexecbytraywithbackup 0 0 0 1 $$ +trayexecbytraywithbackup 0 2 0 3 $$ +trayexecbytraywithbackup 0 4 0 5 $$ +trayexecbytraywithbackup 0 6 0 7 $$ +trayexecbytraywithbackup 0 8 0 9 $$"
+alias Tray1 "+trayexecbytraywithbackup 1 0 1 1 $$ +trayexecbytraywithbackup 1 2 1 3 $$ +trayexecbytraywithbackup 1 4 1 5 $$ +trayexecbytraywithbackup 1 6 1 7 $$ +trayexecbytraywithbackup 1 8 1 9 $$"
+alias Tray2 "+trayexecbytraywithbackup 2 0 2 1 $$ +trayexecbytraywithbackup 2 2 2 3 $$ +trayexecbytraywithbackup 2 4 2 5 $$ +trayexecbytraywithbackup 2 6 2 7 $$ +trayexecbytraywithbackup 2 8 2 9 $$"
+alias Tray3 "+trayexecbytraywithbackup 3 0 3 1 $$ +trayexecbytraywithbackup 3 2 3 3 $$ +trayexecbytraywithbackup 3 4 3 5 $$ +trayexecbytraywithbackup 3 6 3 7 $$ +trayexecbytraywithbackup 3 8 3 9 $$"
+alias Tray4 "+trayexecbytraywithbackup 4 0 4 1 $$ +trayexecbytraywithbackup 4 2 4 3 $$ +trayexecbytraywithbackup 4 4 4 5 $$ +trayexecbytraywithbackup 4 6 4 7 $$ +trayexecbytraywithbackup 4 8 4 9 $$"
+alias Tray5 "+trayexecbytraywithbackup 5 0 5 1 $$ +trayexecbytraywithbackup 5 2 5 3 $$ +trayexecbytraywithbackup 5 4 5 5 $$ +trayexecbytraywithbackup 5 6 5 7 $$ +trayexecbytraywithbackup 5 8 5 9 $$"
+alias Tray6 "+trayexecbytraywithbackup 6 0 6 1 $$ +trayexecbytraywithbackup 6 2 6 3 $$ +trayexecbytraywithbackup 6 4 6 5 $$ +trayexecbytraywithbackup 6 6 6 7 $$ +trayexecbytraywithbackup 6 8 6 9 $$"
+alias Tray7 "+trayexecbytraywithbackup 7 0 7 1 $$ +trayexecbytraywithbackup 7 2 7 3 $$ +trayexecbytraywithbackup 7 4 7 5 $$ +trayexecbytraywithbackup 7 6 7 7 $$ +trayexecbytraywithbackup 7 8 7 9 $$"
+alias Tray8 "+trayexecbytraywithbackup 8 0 8 1 $$ +trayexecbytraywithbackup 8 2 8 3 $$ +trayexecbytraywithbackup 8 4 8 5 $$ +trayexecbytraywithbackup 8 6 8 7 $$ +trayexecbytraywithbackup 8 8 8 9 $$"
+alias Tray9 "+trayexecbytraywithbackup 9 0 9 1 $$ +trayexecbytraywithbackup 9 2 9 3 $$ +trayexecbytraywithbackup 9 4 9 5 $$ +trayexecbytraywithbackup 9 6 9 7 $$ +trayexecbytraywithbackup 9 8 9 9 $$"
+alias Tray0Up "+trayexecbytray 0 5 $$ +trayexecbytray 0 6 $$ +trayexecbytray 0 7 $$ +trayexecbytray 0 8 $$ +trayexecbytray 0 9 $$"
+alias Tray0Low "+trayexecbytray 0 0 $$ +trayexecbytray 0 1 $$ +trayexecbytray 0 2 $$ +trayexecbytray 0 3 $$ +trayexecbytray 0 4 $$"
+alias Tray1Up "+trayexecbytray 1 5 $$ +trayexecbytray 1 6 $$ +trayexecbytray 1 7 $$ +trayexecbytray 1 8 $$ +trayexecbytray 1 9 $$"
+alias Tray1Low "+trayexecbytray 1 0 $$ +trayexecbytray 0 1 $$ +trayexecbytray 0 2 $$ +trayexecbytray 0 3 $$ +trayexecbytray 0 4 $$"
+alias Tray2Up "+trayexecbytray 2 5 $$ +trayexecbytray 2 6 $$ +trayexecbytray 2 7 $$ +trayexecbytray 2 8 $$ +trayexecbytray 2 9 $$"
+alias Tray2Low "+trayexecbytray 2 0 $$ +trayexecbytray 2 1 $$ +trayexecbytray 2 2 $$ +trayexecbytray 2 3 $$ +trayexecbytray 2 4 $$"
+alias Tray3Up "+trayexecbytray 3 5 $$ +trayexecbytray 3 6 $$ +trayexecbytray 3 7 $$ +trayexecbytray 3 8 $$ +trayexecbytray 3 9 $$"
+alias Tray3Low "+trayexecbytray 3 0 $$ +trayexecbytray 3 1 $$ +trayexecbytray 3 2 $$ +trayexecbytray 3 3 $$ +trayexecbytray 3 4 $$"
+alias Tray4Up "+trayexecbytray 4 5 $$ +trayexecbytray 4 6 $$ +trayexecbytray 4 7 $$ +trayexecbytray 4 8 $$ +trayexecbytray 4 9 $$"
+alias Tray4Low "+trayexecbytray 4 0 $$ +trayexecbytray 4 1 $$ +trayexecbytray 4 2 $$ +trayexecbytray 4 3 $$ +trayexecbytray 4 4 $$"
+alias Tray5Up "+trayexecbytray 5 5 $$ +trayexecbytray 5 6 $$ +trayexecbytray 5 7 $$ +trayexecbytray 5 8 $$ +trayexecbytray 5 9 $$"
+alias Tray5Low "+trayexecbytray 5 0 $$ +trayexecbytray 5 1 $$ +trayexecbytray 5 2 $$ +trayexecbytray 5 3 $$ +trayexecbytray 5 4 $$"
+alias Tray6Up "+trayexecbytray 6 5 $$ +trayexecbytray 6 6 $$ +trayexecbytray 6 7 $$ +trayexecbytray 6 8 $$ +trayexecbytray 6 9 $$"
+alias Tray6Low "+trayexecbytray 6 0 $$ +trayexecbytray 6 1 $$ +trayexecbytray 6 2 $$ +trayexecbytray 6 3 $$ +trayexecbytray 6 4 $$"
+alias Tray7Up "+trayexecbytray 7 5 $$ +trayexecbytray 7 6 $$ +trayexecbytray 7 7 $$ +trayexecbytray 7 8 $$ +trayexecbytray 7 9 $$"
+alias Tray7Low "+trayexecbytray 7 0 $$ +trayexecbytray 7 1 $$ +trayexecbytray 7 2 $$ +trayexecbytray 7 3 $$ +trayexecbytray 7 4 $$"
+alias Tray8Up "+trayexecbytray 8 5 $$ +trayexecbytray 8 6 $$ +trayexecbytray 8 7 $$ +trayexecbytray 8 8 $$ +trayexecbytray 8 9 $$"
+alias Tray8Low "+trayexecbytray 8 0 $$ +trayexecbytray 8 1 $$ +trayexecbytray 8 2 $$ +trayexecbytray 8 3 $$ +trayexecbytray 8 4 $$"
+alias Tray9Up "+trayexecbytray 9 5 $$ +trayexecbytray 9 6 $$ +trayexecbytray 9 7 $$ +trayexecbytray 9 8 $$ +trayexecbytray 9 9 $$"
+alias Tray9Low "+trayexecbytray 9 0 $$ +trayexecbytray 9 1 $$ +trayexecbytray 9 2 $$ +trayexecbytray 9 3 $$ +trayexecbytray 9 4 $$"
+alias Tray0a "+trayexecbytraywithbackup 0 0 0 1 $$ +trayexecbytraywithbackup 0 1 0 0 $$"
+alias Tray0b "+trayexecbytraywithbackup 0 2 0 3 $$ +trayexecbytraywithbackup 0 3 0 2 $$"
+alias Tray0c "+trayexecbytraywithbackup 0 4 0 5 $$"
+alias Tray0d "+trayexecbytraywithbackup 0 6 0 7 $$"
+alias Tray0e "+trayexecbytraywithbackup 0 8 0 9 $$"
+alias Tray1a "+trayexecbytraywithbackup 1 0 1 1 $$"
+alias Tray1b "+trayexecbytraywithbackup 1 2 1 3 $$"
+alias Tray1c "+trayexecbytraywithbackup 1 4 1 5 $$"
+alias Tray1d "+trayexecbytraywithbackup 1 6 1 7 $$"
+alias Tray1e "+trayexecbytraywithbackup 1 8 1 9 $$"
+alias Tray2a "+trayexecbytraywithbackup 2 0 2 1 $$"
+alias Tray2b "+trayexecbytraywithbackup 2 2 2 3 $$"
+alias Tray2c "+trayexecbytraywithbackup 2 4 2 5 $$"
+alias Tray2d "+trayexecbytraywithbackup 2 6 2 7 $$"
+alias Tray2e "+trayexecbytraywithbackup 2 8 2 9 $$"
+alias Tray3a "+trayexecbytraywithbackup 3 0 3 1 $$"
+alias Tray3b "+trayexecbytraywithbackup 3 2 3 3 $$"
+alias Tray3c "+trayexecbytraywithbackup 3 4 3 5 $$"
+alias Tray3d "+trayexecbytraywithbackup 3 6 3 7 $$"
+alias Tray3e "+trayexecbytraywithbackup 3 8 3 9 $$"
+alias Tray4a "+trayexecbytraywithbackup 4 0 4 1 $$"
+alias Tray4b "+trayexecbytraywithbackup 4 2 4 3 $$"
+alias Tray4c "+trayexecbytraywithbackup 4 4 4 5 $$"
+alias Tray4d "+trayexecbytraywithbackup 4 6 4 7 $$"
+alias Tray4e "+trayexecbytraywithbackup 4 8 4 9 $$"
+alias Tray5a "+trayexecbytraywithbackup 5 0 5 1 $$"
+alias Tray5b "+trayexecbytraywithbackup 5 2 5 3 $$"
+alias Tray5c "+trayexecbytraywithbackup 5 4 5 5 $$"
+alias Tray5d "+trayexecbytraywithbackup 5 6 5 7 $$"
+alias Tray5e "+trayexecbytraywithbackup 5 8 5 9 $$"
+alias Tray6a "+trayexecbytraywithbackup 6 0 6 1 $$"
+alias Tray6b "+trayexecbytraywithbackup 6 2 6 3 $$"
+alias Tray6c "+trayexecbytraywithbackup 6 4 6 5 $$"
+alias Tray6d "+trayexecbytraywithbackup 6 6 6 7 $$"
+alias Tray6e "+trayexecbytraywithbackup 6 8 6 9 $$"
+alias Tray7a "+trayexecbytraywithbackup 7 0 7 1 $$"
+alias Tray7b "+trayexecbytraywithbackup 7 2 7 3 $$"
+alias Tray7c "+trayexecbytraywithbackup 7 4 7 5 $$"
+alias Tray7d "+trayexecbytraywithbackup 7 6 7 7 $$"
+alias Tray7e "+trayexecbytraywithbackup 7 8 7 9 $$"
+alias Tray8a "+trayexecbytraywithbackup 8 0 8 1 $$"
+alias Tray8b "+trayexecbytraywithbackup 8 2 8 3 $$"
+alias Tray8c "+trayexecbytraywithbackup 8 4 8 5 $$"
+alias Tray8d "+trayexecbytraywithbackup 8 6 8 7 $$"
+alias Tray8e "+trayexecbytraywithbackup 8 8 8 9 $$"
+alias Tray9a "+trayexecbytraywithbackup 9 0 9 1 $$"
+alias Tray9b "+trayexecbytraywithbackup 9 2 9 3 $$"
+alias Tray9c "+trayexecbytraywithbackup 9 4 9 5 $$"
+alias Tray9d "+trayexecbytraywithbackup 9 6 9 7 $$"
+alias Tray9e "+trayexecbytraywithbackup 9 8 9 9 $$"
+
+
+alias Lupe "$$ GenSetEarlyOverrideFloat Hud_Buffs scale 1.5 $$ GenSetEarlyOverrideFloat Hud_Statustarget_Space_Bufflist Scale 1.5 $$ GenSetEarlyOverrideFloat Hud_Statustarget_Space_Bufflist topmargin 50 $$ GenSetEarlyOverrideFloat Hud_Statustarget_Space_Bufflist leftmargin 400"
+alias LupeBoden "$$GenSetEarlyOverrideFloat Hud_Buffs scale 2.0$$GenSetEarlyOverrideFloat Hud_Statustarget_Ground_Bufflist Scale 2$$GenSetEarlyOverrideFloat Hud_Statustarget_Ground_Bufflist topmargin 50$$GenSetEarlyOverrideFloat Hud_Statustarget_Ground_Bufflist leftmargin 1"
+
+
+alias Heilung "Target_Self $$ +trayexecbytraywithbackup 3 8 3 7 $$"
+alias Evasive "+trayexecbytray 3 9"
+alias Angriff4 "+trayexecbytraywithbackup 3 0 3 1 $$ +trayexecbytraywithbackup 3 2 3 3"
+alias Angriff5 "+trayexecbytraywithbackup 3 0 3 1 $$ +trayexecbytraywithbackup 3 2 3 3 $$ +trayexecbytray 3 4"
+alias Angriff6 "+trayexecbytraywithbackup 3 0 3 1 $$ +trayexecbytraywithbackup 3 2 3 3 $$ +trayexecbytraywithbackup 3 4 3 5"
+alias RocknRoll "+trayexecbytray 0 9"
+alias Carrierwave "+trayexecbytray 1 1"
+alias TempNegotiator "+trayexecbytray 5 8"
+alias Tarnung "+trayexecbytray 2 8"
+alias RIF "+trayexecbytray 7 9"
+alias Quantum "+trayexecbytray 7 8"
+alias Bubble "+trayexecbytray 7 7"
+alias Alpha "+trayexecbytraywithbackup 3 4 3 5 $$ +trayexecbytraywithbackup 3 3 3 2 $$ +trayexecbytraywithbackup 3 0 3 1 $$"
+alias AlphaDPS "+trayexecbytraywithbackup 5 4 5 5 $$ +trayexecbytraywithbackup 5 6 5 7 $$ +trayexecbytraywithbackup 5 8 5 9 $$"
+alias Fleets "+trayexecbytraywithbackup 5 0 5 1 $$ +trayexecbytraywithbackup 5 2 5 0 $"
+alias Pinpoint "+trayexecbytraywithbackup 7 4 7 5 $$ +trayexecbytraywithbackup 7 1 7 2 $$ "
+
+
+alias Caller "Target_Enemy_Near_ForArc 180"
+
+alias Huelle1 "TargetTeammate 1 $$ +trayexecbytray 6 2 $$+trayexecbytray 6 1 $$+trayexecbytray 6 0 $$"
+alias Huelle2 "TargetTeammate 2 $$ +trayexecbytray 6 2 $$+trayexecbytray 6 1 $$+trayexecbytray 6 0 $$"
+alias Huelle3 "TargetTeammate 3 $$ +trayexecbytray 6 2 $$+trayexecbytray 6 1 $$+trayexecbytray 6 0 $$"
+alias Huelle4 "TargetTeammate 4 $$ +trayexecbytray 6 2 $$+trayexecbytray 6 1 $$+trayexecbytray 6 0 $$"
+alias Schilde1 "TargetTeammate 1 $$ +trayexecbytray 6 7 $$+trayexecbytray 6 8 $$+trayexecbytray 6 9 $$"
+alias Schilde2 "TargetTeammate 2 $$ +trayexecbytray 6 7 $$+trayexecbytray 6 8 $$+trayexecbytray 6 9 $$"
+alias Schilde3 "TargetTeammate 3 $$ +trayexecbytray 6 7 $$+trayexecbytray 6 8 $$+trayexecbytray 6 9 $$"
+alias Schilde4 "TargetTeammate 4 $$ +trayexecbytray 6 7 $$+trayexecbytray 6 8 $$+trayexecbytray 6 9 $$"
+
+alias OwnChannel <&channelsend InsertChannelhere {}&>
+alias cAnnounce <&PlayerSay {}&>
+alias cPrint1 <&ScreenShot_ui_jpg $$ cAnnounce JPG Screenshot mit UI $$ OwnChannel JPG Screenshot mit UI&>
+alias cPrint2 <&ScreenShot_JPG    $$ cAnnounce JPG Screenshot ohne UI $$ OwnChannel JPG Screenshot ohne UI&>
+alias cPrint3 <&ScreenShot        $$ cAnnounce TIFF Screenshot ohne UI $$ OwnChannel TIFF Screenshot ohne UI&>
+alias cPrint4 <&ScreenShot_ui     $$ cAnnounce TIFF Screenshot mit UI $$ OwnChannel TIFF Screenshot mit UI&>
+
+
+alias cCrouchAimToggle  <&cCrouchAimOn&>
+alias cCrouchAimOn      <&crouch 2$$ aim 2$$ alias cCrouchAimToggle "cCrouchAimOff" &>
+alias cCrouchAimOff     <&crouch 0$$ aim 0$$ alias cCrouchAimToggle "cCrouchAimOn" &>
+
+alias cGndPetAttackToggle  <&cGndPetAttackOn&>
+alias cGndPetAttackMode    <&PetCommands_SetAllToOwnerAttackTarget&>
+alias cGndPetAttackOn      <&cAnnounce BOFF Assistance: ON $$  alias cGndPetAttackMode "PetCommands_SetAllToOwnerAttackTarget" $$ alias cGndPetAttackToggle "cGndPetAttackOff" &>
+alias cGndPetAttackOff     <&cAnnounce BOFF Assistance: OFF $$ alias cGndPetAttackMode "" $$                                      alias cGndPetAttackToggle "cGndPetAttackOn" &>
+
+alias Sompek "emote Dance_Sompek_Kael"
